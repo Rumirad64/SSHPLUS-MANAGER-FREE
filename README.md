@@ -2,7 +2,7 @@
 ```
 * UPDATE 28/04/2021 - PROYECTO FINALIZADO
 ```
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
+![logo](https://github.com/Rumirad64/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.jpg)
 
 ```
 SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herramientas adecuadas para 
@@ -26,7 +26,7 @@ SCRIPT SSHPLUS MANAGER es un script con un conjunto de características y herram
 
 ## :book: Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Rumirad64/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
 
 ```
 SI NECESITAN REINSTALAR EL SCRIPTS PUEDEN EJECUTAR EL COMANDO: ( sshplus )
@@ -35,12 +35,12 @@ SI NECESITAN REINSTALAR EL SCRIPTS PUEDEN EJECUTAR EL COMANDO: ( sshplus )
 
 ## :book: Installation Utilitarios
 
-1. [SCRIPT OFICIAL PAINEL SSHPLUS WEB VERSAO: 20 (Installation Directa)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
-2. [PAINEL SSHPLUS WEB (VERSIONES)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
-3. [GENERADOR DE KEY SSHPLUS MANAGER](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Generador)
-4. [MULTI-INTALADOR SSHPLUS](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Multi-Instalador)
-5. [TCP-Tweaker-1.0 (TCP-SPEED)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/TCP-Speed)
-6. [INSTALL ARQUIVOS ORIGINALES ENCRIPTADOS POR @crazy_vpn](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Sistema)
+1. [SCRIPT OFICIAL PAINEL SSHPLUS WEB VERSAO: 20 (Installation Directa)](https://github.com/Rumirad64/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
+2. [PAINEL SSHPLUS WEB (VERSIONES)](https://github.com/Rumirad64/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
+3. [GENERADOR DE KEY SSHPLUS MANAGER](https://github.com/Rumirad64/SSHPLUS-MANAGER-FREE/tree/master/Install/Generador)
+4. [MULTI-INTALADOR SSHPLUS](https://github.com/Rumirad64/SSHPLUS-MANAGER-FREE/tree/master/Install/Multi-Instalador)
+5. [TCP-Tweaker-1.0 (TCP-SPEED)](https://github.com/Rumirad64/SSHPLUS-MANAGER-FREE/tree/master/Install/TCP-Speed)
+6. [INSTALL ARQUIVOS ORIGINALES ENCRIPTADOS POR @crazy_vpn](https://github.com/Rumirad64/SSHPLUS-MANAGER-FREE/tree/master/Install/Sistema)
 
 -------------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ SI NECESITAN REINSTALAR EL SCRIPTS PUEDEN EJECUTAR EL COMANDO: ( sshplus )
 
 **VERSION: 37**
 
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/versao
+https://raw.githubusercontent.com/Rumirad64/SSHPLUS-MANAGER-FREE/master/versao
 
 ## :octocat: Contribute
 

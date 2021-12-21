@@ -1,5 +1,5 @@
 #!/bin/bash
 #Menu Adaptado Completo
 
-wget -O /bin/menu https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Menu_UP/menuV2/menuV2; chmod +x /bin/menu; /bin/menu
+wget -O /bin/menu https://raw.githubusercontent.com/Rumirad64/SSHPLUS-MANAGER-FREE/master/Install/Menu_UP/menuV2/menuV2; chmod +x /bin/menu; /bin/menu
 #fim
