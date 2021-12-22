@@ -1,4 +1,6 @@
 ﻿# SSHPLUS MANAGER
+ ## Forked from https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE manually
+ ### Credits to original auther https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ
 ```
 * UPDATE 28/04/2021 - PROYECTO FINALIZADO
 ```
